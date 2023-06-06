@@ -14,17 +14,13 @@
     $int = 100;
     $float = 75.5;
     $string = "Belajar PHP";
-    $isActive = true;
-    $x = null;
-    $color = array("Red", "Green", "Blue");
+    echo "Type data integer is " . $int . "<br/>";
+    echo "Type data float is " . $float . "<br/>";
+    echo "Type data string is " . $string . "<br/>";
+    if (TRUE)
+        echo "Condition is True";
 
 
-    echo "Type data integer is .$int <br/>";
-    echo "Type data float is .$float <br/>";
-    echo "Type data string is .$string <br/>";
-    echo "Type data boolean is .$boolean <br/>";
-    echo "Type data array is .$array[0] <br/>";
-    echo "Type data null is .$x <br/>";
 
     ?>
 </body>
