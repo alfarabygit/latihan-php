@@ -15,9 +15,9 @@
     $a = 100;
     $b = 75.5;
 
-    echo "Value String is .$str <br/>";
-    echo "Value a is .$a <br/>";
-    echo "Value b is .$b <br/>";
+    echo "Value String is $str <br>";
+    echo "Value a is $a <br>";
+    echo "Value b is $b <br>";
 
     ?>
 </body>

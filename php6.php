@@ -13,8 +13,8 @@
     //tipe data string
     $company = "Moontoon";
 
-    echo "Developer: " . $company . "\n";
-    echo 'Hello $company' . "\n";
+    echo "Developer: " . $company . "<br>";
+    echo 'Hello $company' . "<br>";
     ?>
 </body>
 

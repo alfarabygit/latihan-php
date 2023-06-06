@@ -17,10 +17,10 @@
     $octa = 1453; //octal
     $hexa = 0xA4; //hexadecimal
 
-    echo "Value integer number is " . $int . "<br/>";
-    echo "Value decimal number is " . $decimal . "<br/>";
-    echo "Value octal number is " . $octa . "<br/>";
-    echo "Value hexadecimal number is " . $hexa . "<br/>";
+    echo "Value integer number is " . $int . "<br>";
+    echo "Value decimal number is " . $decimal . "<br>";
+    echo "Value octal number is " . $octa . "<br>";
+    echo "Value hexadecimal number is " . $hexa . "<br>";
     ?>
 </body>
 

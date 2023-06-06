@@ -11,24 +11,24 @@
 <body>
     <?php
     $hallo = "Halo, saya lagi belajar PHP Versi terbaru";
-
-    //echo
-    echo "<h1>$hallo</h1>" . "<br>";
-
-    // print
-    print $hallo . "<br>";
-
-    // print_r
-    print_r($hallo) . "<br>";
-
     // var_dump
     var_dump($hallo) . "<br>";
+
+    //echo
+    echo "<h1>$hallo</h1> <br>";
+
+    // print
+    print "$hallo <br>";
+
+    // print_r
+    print_r($hallo);
+
 
     // ini utk komentar satu baris
 
     /*
-        ini utk komentar lebih satu baris
-    */
+      ini utk komentar lebih satu baris
+  */
     ?>
 </body>
 

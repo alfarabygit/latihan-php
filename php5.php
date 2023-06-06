@@ -14,7 +14,7 @@
     $float1 = 75.66;
     $float2 = 90.53;
     $sum = $float1 + $float2;
-    echo "value float number is: " . $sum . "<br/>";
+    echo "value float number is: " . $sum . "<br>";
     ?>
 </body>
 
